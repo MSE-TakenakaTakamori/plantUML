@@ -1,0 +1,27 @@
+{
+  "name": "plantuml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSE-TakenakaTakamori/plantUML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSE-TakenakaTakamori/plantUML/issues"
+  },
+  "homepage": "https://github.com/MSE-TakenakaTakamori/plantUML#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ejs": "^3.1.0",
+    "gulp-plantuml": "0.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}
